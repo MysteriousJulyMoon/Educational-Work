@@ -11,25 +11,47 @@
 
 ## 📁 Структура репозитория
 educational work/
+
 ├── 1-st Lab/ # Лабораторная работа 1
+
 │ ├── main.cpp
+
 │ └── README.md
+
 ├── 2-nd Lab/ # Лабораторная работа 2
+
 ├── 3-rd Lab/ # Лабораторная работа 3
+
 ├── Labs 4-th/ # Лабораторная работа 4 - Графика с SFML
+
 │ ├── CMakeLists.txt
+
 │ ├── Circle.cpp
+
 │ ├── Circle.hpp
+
 │ ├── Line.cpp
+
 │ ├── Line.hpp
+
 │ ├── Rectangle.cpp
+
 │ ├── Rectangle.hpp
+
 │ ├── Triangle.cpp
+
 │ ├── Triangle.hpp
+
 │ ├── main.cpp
+
 │ └── README.md
+
 ├── 5-th Lab/ # Лабораторная работа 5
+
 ├── 6-th Lab/ # Лабораторная работа 6
+
 ├── 7-th Lab/ # Лабораторная работа 7
+
 ├── 8-th Lab/ # Лабораторная работа 8
+
 └── README.md # Этот файл
